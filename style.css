@@ -1,0 +1,49 @@
+h1{
+    color:mediumblue;
+    font-size: xx-large;
+    padding-left: 35%;
+}
+h2{
+    color: rgb(165, 8, 84);
+    text-decoration-line: underline;
+}
+body {
+    background-color:rgb(255, 236, 242);
+}
+
+p {
+    font-family: cursive;
+    font-weight:bolder;
+    color:blueviolet;
+}
+li {
+    font-size: large;
+    font-family: cursive;
+    font-weight:bolder;
+    color:blueviolet;
+    background:white;
+}
+img {
+    border: 5px solid #191970;    
+    border-radius: 40px;
+}
+hr{
+    height:2px;
+    width:1325px;
+    background:midnightblue;
+}
+
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    background: #ffffff;
+    justify-content: space-between;
+   
+}
+.footer {
+    display:flex;
+    justify-content: space-evenly;
+}
+.line{
+    transform:rotate(180deg);
+}
